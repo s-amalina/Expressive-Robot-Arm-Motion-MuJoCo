@@ -62,11 +62,10 @@ Headless rendering on Linux needs `MUJOCO_GL=egl` (as set in the notebook). On a
 
 ```
 .
-├── expressive_robot_arm.ipynb   # main notebook (simulation + PAD experiments)
-├── requirements.txt
 ├── media/                       # demo GIFs / videos
-├── LICENSE
-└── README.md
+├── README.md 
+├── expressive_robot_arm.ipynb   # main notebook (simulation + PAD experiments)
+└── requirements.txt
 ```
 
 ## Limitations and next steps
